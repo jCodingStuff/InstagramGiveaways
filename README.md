@@ -11,4 +11,6 @@ the bot also respects Instagram's limit for comments per minute.
 Testing took place months ago, around August 2020. Therefore, it is possible that some modifications to HTML tags have been made in the meantime.
 It should not be hard to adapt the code.
 
+Please note that `phrases.txt` contains phrases in Spanish only.
+
 DISCLAIMER: THIS BOT WAS TESTED ON MY OWN PRIVATE POSTS. IT HAS NEVER BEEN USED IN REAL GIVEAWAYS. USE AT YOUR OWN DISCRETION.
